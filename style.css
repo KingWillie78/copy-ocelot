@@ -1,0 +1,57 @@
+.search input{ 
+    background-color: lightblue;
+    border-radius: 18px;
+    width: 400px;
+    height: 40px;
+    border: none;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    background-color: #05336B;
+    align-items: center;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.logo img {
+    height: 60px;
+}
+
+.nav {
+    display: flex;
+    align-items: center;
+    color: white;
+}
+
+.Go-Premium {
+    color: darkblue;
+    background-color: white;
+    font-size: 12px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 5px;
+    margin-left: 25px;
+    height: 15px;
+}
+
+.middle {
+    background-color: #3C5C88;
+}
+
+.temperature {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 150px;
+}
+
+.bottom {
+    height: 40px;
+    color: white;
+    background-color: #061F40;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
