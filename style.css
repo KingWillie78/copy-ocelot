@@ -1,4 +1,6 @@
 .search input{ 
+    display: flex;
+    justify-content: center;
     background-color: lightblue;
     border-radius: 18px;
     width: 400px;
